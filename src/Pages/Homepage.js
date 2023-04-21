@@ -24,6 +24,17 @@ const Homepage = () => {
                     <button>Write a Review</button>
                 </div>
             </div>
+            <h3>Computer Repair</h3>
+            <p>We know that when your computer, PC or laptop breaks you need a quick and easy computer repair, and you need a repair service that is fast, convenient and reliable.
+                You use your computer for work, home, email, browsing, chatting, and for much more.
+                When you need a computer repair service, you need it done quickly and properly. You need uBreakiFix.
+                Here is what you get when you bring your computer, PC or laptop repair near me to uBreakiFix:
+            </p>
+            <h4>Free Diagnostics</h4>
+            <p>The first thing our skilled technicians do is perform a free diagnostic exam to determine exactly what is wrong with your computer, PC or laptop.
+                Once we have found the root of the problem, our technician will explain what is wrong and provide repair options, including cost and time estimates.
+                If you choose to proceed, they will get started on your computer, PC or laptop repair right away.
+            </p>
         </div>
     )
 }
