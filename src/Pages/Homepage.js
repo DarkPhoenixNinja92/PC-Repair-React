@@ -35,6 +35,17 @@ const Homepage = () => {
                 Once we have found the root of the problem, our technician will explain what is wrong and provide repair options, including cost and time estimates.
                 If you choose to proceed, they will get started on your computer, PC or laptop repair right away.
             </p>
+            <h4>Expert Service</h4>
+            <p>One thing you can be assured of with uBreakiFix, your computer is in good hands. Our trained technicians have experience with a variety of computer, PC and laptop brands including Apple, Dell and HP.
+                We have experience fixing everything from cooling fans, screens, ports, batteries and more.
+                The technician will keep updated on the progress of your computer, PC or laptop repair near me throughout the process.
+                No matter what brand of computer, PC or laptop you have or repair it needs, you can be assured your repair is being done quickly and professionally.
+            </p>
+            <h4>Low Price Guarantee</h4>
+            <p>
+            uBreakiFix offers a low price guarantee on all of our computer, PC and laptop repairs. If you find a lower published price on the same repair we will match that price and lower ours by $5.
+            All of our repairs come with a 1 year guarantee so you can rest assured. If you are looking for the most affordable computer repair near me, PC repair or laptop repair near me, come to us.
+            </p>
         </div>
     )
 }
