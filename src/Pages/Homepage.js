@@ -16,7 +16,50 @@ const Homepage = () => {
             </ul>
             <div className='reviews'>
                 <div className='left'>
-                    Star Ratings Here
+                    <div className='review'>
+                    <p className="stars">
+                        5 Stars
+                    </p>
+                    <p className="comment">
+                        "Great service! Would recommend"
+                    </p>
+                    <p className="author">
+                        Greg Foster
+                    </p>
+                    </div>
+                    <div className='review'>
+                    <p className="stars">
+                        5 Stars
+                    </p>
+                    <p className="comment">
+                        "Great service! Would recommend"
+                    </p>
+                    <p className="author">
+                        Greg Foster
+                    </p>
+                    </div>
+                    <div className='review'>
+                    <p className="stars">
+                        5 Stars
+                    </p>
+                    <p className="comment">
+                        "Great service! Would recommend"
+                    </p>
+                    <p className="author">
+                        Greg Foster
+                    </p>
+                    </div>
+                    <div className='review'>
+                    <p className="stars">
+                        5 Stars
+                    </p>
+                    <p className="comment">
+                        "Great service! Would recommend"
+                    </p>
+                    <p className="author">
+                        Greg Foster
+                    </p>
+                    </div>
                 </div>
                 <div className='right'>
                     <p>Whether you had a stellar experience or you think there’s room for improvement, please let us know.

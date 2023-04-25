@@ -18,3 +18,15 @@ button {
     text-transform: uppercase;
     cursor: pointer;
 }
+
+.left,.review {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.review {
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
