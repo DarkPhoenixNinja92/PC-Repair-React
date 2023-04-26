@@ -64,7 +64,7 @@ const Homepage = () => {
                 <div className='right'>
                     <p>Whether you had a stellar experience or you think there’s room for improvement, please let us know.
                         We value your experience at uBreakiFix above anything else. We want to hear from you!</p>
-                    <button>Write a Review</button>
+                    <button className='review-write'>Write a Review</button>
                 </div>
             </div>
             <h3>Computer Repair</h3>

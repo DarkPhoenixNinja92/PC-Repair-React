@@ -30,3 +30,8 @@ button {
     border: 1px solid black;
     margin-bottom: 20px;
 }
+
+.review-write {
+    margin-top: 3em;
+    margin-bottom: 11em;
+}
