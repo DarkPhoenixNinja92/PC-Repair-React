@@ -1,14 +1,16 @@
+import { REVIEWS } from "../REVIEWS";
+
 const ReviewCard = () => {
     return (
         <div className='review'>
             <p className="stars">
-            5 Stars
+            {REVIEWS[0].stars} Stars
             </p>
             <p className="comment">
-            "Great service! Would recommend"
+            {REVIEWS[0].comment}
             </p>
             <p className="author">
-            Greg Foster
+            {REVIEWS[0].author}
             </p>
         </div>
     )
