@@ -1,4 +1,5 @@
 import './Homepage.css';
+import ReviewList from '../Components/ReviewList';
 
 const Homepage = () => {
     return(
@@ -16,50 +17,7 @@ const Homepage = () => {
             </ul>
             <div className='reviews'>
                 <div className='left'>
-                    <div className='review'>
-                    <p className="stars">
-                        5 Stars
-                    </p>
-                    <p className="comment">
-                        "Great service! Would recommend"
-                    </p>
-                    <p className="author">
-                        Greg Foster
-                    </p>
-                    </div>
-                    <div className='review'>
-                    <p className="stars">
-                        5 Stars
-                    </p>
-                    <p className="comment">
-                        "Great service! Would recommend"
-                    </p>
-                    <p className="author">
-                        Greg Foster
-                    </p>
-                    </div>
-                    <div className='review'>
-                    <p className="stars">
-                        5 Stars
-                    </p>
-                    <p className="comment">
-                        "Great service! Would recommend"
-                    </p>
-                    <p className="author">
-                        Greg Foster
-                    </p>
-                    </div>
-                    <div className='review'>
-                    <p className="stars">
-                        5 Stars
-                    </p>
-                    <p className="comment">
-                        "Great service! Would recommend"
-                    </p>
-                    <p className="author">
-                        Greg Foster
-                    </p>
-                    </div>
+                    <ReviewList/>
                 </div>
                 <div className='right'>
                     <p>Whether you had a stellar experience or you think there’s room for improvement, please let us know.
